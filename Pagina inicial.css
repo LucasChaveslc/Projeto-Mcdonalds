@@ -1,0 +1,12 @@
+.Nav-bar{
+    float: left ;
+    
+    width: 100% ;
+    border-bottom: 2px solid #7b7b7b ;
+    text-align: end ;
+}
+    
+
+.lista-navbar{
+    text-align: end ;
+}
