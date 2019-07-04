@@ -16,7 +16,41 @@
     position: absolute;
     top: 0;
     margin-top: 0%;
-    margin-left: 5%;
+    margin-left: 6%;
     width: 7%;
     height: 166%;
+    z-index: 2000;
+}
+.item-lista{
+    border: 1px solid #bbbbbf;
+    padding: 0px 25px;
+    font-weight: 900;
+    font-family: 'Akzidenz Grotesk BoldCn' !important;
+    color: #414141 !important;
+    
+}
+.item-l{
+    margin-top: 10px;
+    color: #414141;
+    text-transform: uppercase;
+    
+}
+.banner-1{
+    margin-bottom: 30px;
+}
+.banner-2{
+    border-bottom: 4px solid #f0c43f;
+}
+.banner-3{
+    position: relative;
+}
+.banner-4{
+    height: auto;
+    width: 100% !important;
+    
+    
+}
+.titulo{
+    text-align: center;
+    margin-top: 50px;
 }
