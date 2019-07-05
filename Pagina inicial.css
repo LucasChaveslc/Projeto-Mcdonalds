@@ -51,7 +51,7 @@
     
 }
 .titulo{
-    text-align: center;
+    text-align: center !important;
     margin-top: 50px;
 }
 .cards{
@@ -64,4 +64,22 @@
 .img-cards{
     box-shadow: 0 15px 20px -8px;
     border: none;
+}
+.bar-1{
+    height: 10px;
+    background-color: #c4c2c1;
+    width: 100%;
+}
+.bar-2{
+    height: 10px;
+    background-color: #c4c2c1;
+    width: 100%;
+    margin-top: 9.7%;
+}
+.img-cards-2{
+    width: 145%;
+    margin-left: -136px;
+}
+.img-cards-3{
+    width: 145%;
 }
